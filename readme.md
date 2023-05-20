@@ -1,3 +1,4 @@
+# （详见course.pdf）
 # Learning Prior Knowledge via LSTM and the Transformer in Text Classification Task: Performance Difference and Structured Explanation
 
 > 小想法，关于Transformer和ViT间的比对，所有带baseline版本的条目都是我提交课设作的简单版，可忽略
